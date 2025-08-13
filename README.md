@@ -84,20 +84,12 @@ The CNN architecture consists of:
 
 ```
 
-## ⚠ Challenges  
-- Overfitting in early runs without augmentation  
-- Long training times for high accuracy  
-
----
-
-```
 git clone https://github.com/Salman-Dev262/image_Classifier.git
 cd image_Classifier
 pip install -r requirements.txt
 python train.py
 
 ```
-
 ## 🚀 Future Work  
 - Implement deeper architectures (ResNet, VGG, DenseNet)  
 - Apply transfer learning with pre-trained models  
